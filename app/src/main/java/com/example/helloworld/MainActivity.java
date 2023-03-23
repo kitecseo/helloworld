@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        //Log.d(TAG, "onStart: ");
+        Log.d(TAG, "onStart: hello");
     }
 }
