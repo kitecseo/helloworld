@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onStart: hello world1");
         Log.d(TAG, "onStart: hello world2");
         Log.d(TAG, "onStart: hello world3");
+        Log.d(TAG, "onStart: hello world4");
     }
 }
